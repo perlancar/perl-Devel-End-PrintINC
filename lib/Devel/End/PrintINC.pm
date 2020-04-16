@@ -29,3 +29,5 @@ END {
 L<Devel::DieHandler::PrintINCVersion>
 
 Other C<Devel::End::*> modules
+
+Other L<End>::* modules
